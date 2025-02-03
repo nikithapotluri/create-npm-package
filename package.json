@@ -1,0 +1,22 @@
+{
+  "name": "nikitha-create-package",
+  "version": "1.0.0",
+  "description": "This is my first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikithapotluri/create-npm-package.git"
+  },
+  "keywords": [
+    "nikitha"
+  ],
+  "author": "Nikitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikithapotluri/create-npm-package/issues"
+  },
+  "homepage": "https://github.com/nikithapotluri/create-npm-package#readme"
+}
