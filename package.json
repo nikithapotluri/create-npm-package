@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nikithapotluri/create-npm-package/issues"
   },
-  "homepage": "https://github.com/nikithapotluri/create-npm-package#readme"
+  "homepage": "https://github.com/nikithapotluri/create-npm-package#readme",
+  "dependencies": {
+    "nikitha-create-package": "^1.0.0"
+  }
 }
